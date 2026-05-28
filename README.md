@@ -7,7 +7,7 @@ Instead of learning “what is this?”, it learns “are these two things the s
 It consists of:
 
 Two identical subnetworks (same architecture, shared weights)
-Each processes one input
+Each processes take one input
 Outputs are compared using a distance metric (e.g., Euclidean distance)
 ⚙️ How it works
 Input pair: (x1, x2)
