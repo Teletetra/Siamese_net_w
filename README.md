@@ -1,5 +1,5 @@
 A Siamese network is a type of neural network architecture designed to compare two inputs and measure how similar they are, rather than classify each input independently.
-
+nsff
 🧠 Core idea of the project
 update this 
 Instead of learning “what is this?”, it learns “are these two things the same (or similar)?”
